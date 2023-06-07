@@ -3,7 +3,8 @@ import { Button } from "components/Button/Button";
 import { statusFilters } from "../../redux/constants";
 import { getStatusFilter } from "../../redux/selectors";
 import css from "./StatusFilter.module.css";
-import { setStatusFilter } from "redux/actions";
+import { setStatusFilter } from "redux/filtersSlice";
+// import { setStatusFilter } from "redux/actions";
 
 export const StatusFilter = () => {
   const filter = useSelector(getStatusFilter);
