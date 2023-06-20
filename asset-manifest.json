@@ -1,13 +1,31 @@
 {
   "files": {
-    "main.css": "/task-list/static/css/main.5763847e.css",
-    "main.js": "/task-list/static/js/main.b4abeee6.js",
+    "main.css": "/task-list/static/css/main.54392416.css",
+    "main.js": "/task-list/static/js/main.743f0f52.js",
+    "static/js/266.08d7c2fa.chunk.js": "/task-list/static/js/266.08d7c2fa.chunk.js",
+    "static/css/40.1e05f24e.chunk.css": "/task-list/static/css/40.1e05f24e.chunk.css",
+    "static/js/40.4555065e.chunk.js": "/task-list/static/js/40.4555065e.chunk.js",
+    "static/css/635.e2937cc9.chunk.css": "/task-list/static/css/635.e2937cc9.chunk.css",
+    "static/js/635.b311221f.chunk.js": "/task-list/static/js/635.b311221f.chunk.js",
+    "static/css/853.5d0534f5.chunk.css": "/task-list/static/css/853.5d0534f5.chunk.css",
+    "static/js/853.ec5ea770.chunk.js": "/task-list/static/js/853.ec5ea770.chunk.js",
+    "static/js/270.cdca11d3.chunk.js": "/task-list/static/js/270.cdca11d3.chunk.js",
+    "static/js/322.db226529.chunk.js": "/task-list/static/js/322.db226529.chunk.js",
     "index.html": "/task-list/index.html",
-    "main.5763847e.css.map": "/task-list/static/css/main.5763847e.css.map",
-    "main.b4abeee6.js.map": "/task-list/static/js/main.b4abeee6.js.map"
+    "main.54392416.css.map": "/task-list/static/css/main.54392416.css.map",
+    "main.743f0f52.js.map": "/task-list/static/js/main.743f0f52.js.map",
+    "266.08d7c2fa.chunk.js.map": "/task-list/static/js/266.08d7c2fa.chunk.js.map",
+    "40.1e05f24e.chunk.css.map": "/task-list/static/css/40.1e05f24e.chunk.css.map",
+    "40.4555065e.chunk.js.map": "/task-list/static/js/40.4555065e.chunk.js.map",
+    "635.e2937cc9.chunk.css.map": "/task-list/static/css/635.e2937cc9.chunk.css.map",
+    "635.b311221f.chunk.js.map": "/task-list/static/js/635.b311221f.chunk.js.map",
+    "853.5d0534f5.chunk.css.map": "/task-list/static/css/853.5d0534f5.chunk.css.map",
+    "853.ec5ea770.chunk.js.map": "/task-list/static/js/853.ec5ea770.chunk.js.map",
+    "270.cdca11d3.chunk.js.map": "/task-list/static/js/270.cdca11d3.chunk.js.map",
+    "322.db226529.chunk.js.map": "/task-list/static/js/322.db226529.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5763847e.css",
-    "static/js/main.b4abeee6.js"
+    "static/css/main.54392416.css",
+    "static/js/main.743f0f52.js"
   ]
 }
