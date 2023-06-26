@@ -9,7 +9,7 @@ import "./index.css";
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-    <React.StrictMode>
+    // <React.StrictMode>
         <Provider store={store}>
             <PersistGate loading={null} persistor={persisitor}>
                 <BrowserRouter basename="/task-list">
@@ -17,5 +17,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
                 </BrowserRouter>
             </PersistGate>
         </Provider>
-    </React.StrictMode> 
+    // </React.StrictMode> 
 );
